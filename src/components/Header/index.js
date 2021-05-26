@@ -28,7 +28,7 @@ export default (props) => {
             <Grid item xs={10}>
                 <Box display='flex' justifyContent='space-between'>
                 <Box display='flex' justifyContent='flex-start'>
-                <img src='logo.png' alt='vistar' height='60px' width='60px'/>
+                <img src='logo.png' alt='vistar' height='40px' width='40px'/>
                     <Typography variant='h4' className={classes.ml}>
                         Vistar Jobs
                     </Typography></Box>
