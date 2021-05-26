@@ -38,7 +38,7 @@ export default (props) => {
                     variant='contained' disableElevation>
                         Post a Job
                     </Button>
-                    <Button target="_blank" href="https://kritikashah20.github.io/React-LandingPage/" 
+                    <Button href="https://kritikashah20.github.io/React-LandingPage/" 
                     className={`${classes.wrapper} ${classes.ml}`}
                     variant='contained' disableElevation>
                         About Vistar
