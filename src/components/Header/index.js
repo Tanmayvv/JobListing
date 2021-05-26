@@ -41,7 +41,7 @@ export default (props) => {
                     <Button href="https://vistar-job-home.netlify.app/" 
                     className={`${classes.wrapper} ${classes.ml}`}
                     variant='contained' disableElevation>
-                        About Vistar
+                        Home
                     </Button>
                     </Box>
                 </Box>
