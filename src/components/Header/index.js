@@ -38,7 +38,7 @@ export default (props) => {
                     variant='contained' disableElevation>
                         Post a Job
                     </Button>
-                    <Button href="https://kritikashah20.github.io/React-LandingPage/" 
+                    <Button href="https://vistar-job-home.netlify.app/" 
                     className={`${classes.wrapper} ${classes.ml}`}
                     variant='contained' disableElevation>
                         About Vistar
